@@ -51,7 +51,7 @@ Emoticons for commits and user story.
 | Accessibility              | :wheelchair: `:wheelchair:`                   |
 | Move/rename repository     | :truck: `:truck:`                             |
 | Assets                     | :bento: `:bento:`                             |
-| .gitignore file            | :bento: `:bento:`                             |
+| .gitignore file            | :see_no_evil: `:see_no_evil:`                 |
 | Adding or updating license | :page_facing_up: `:page_facing_up:`           |
 
 Emoticons for user story.
