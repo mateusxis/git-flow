@@ -57,6 +57,6 @@ Emoticons for commits and user story.
 Emoticons for user story.
 |   Repository type          | Emoji                                         |
 |:---------------------------|:----------------------------------------------|
-| Backend                    | satellite: `:satellite:`                      |
-| Database                   | floppy_disk: `:floppy_disk:`                  |
-| Frontend                   | computer: `:computer:`                        |
+| Backend                    | :satellite: `:satellite:`                      |
+| Database                   | :floppy_disk: `:floppy_disk:`                  |
+| Frontend                   | :computer: `:computer:`                        |
